@@ -1,0 +1,2 @@
+# CodeMagic
+For Mining Sugar
